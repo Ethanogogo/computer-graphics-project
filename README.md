@@ -182,7 +182,7 @@ The design demonstrates how architectural structures, lighting elements, and cul
 
 ### Blender File
 
-https://github.com/Ethanogogo/computer-graphics-project/tree/main
+https://drive.google.com/drive/folders/1STDUk8xJ2oqEVA1wE5w3olaebDX_AADu?usp=drive_link
 
 ---
 
